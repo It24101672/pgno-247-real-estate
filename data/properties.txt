@@ -1,0 +1,5 @@
+PROP-d6ee6b12|For a Loving Family|"Modern 3-bedroom home with living area, stylish kitchen, and private backyard. Close to schools, shops, and transport. Perfect for families or investors."|9000000.0|Colombo 7|6d993b5c|true|property_PROP-d6ee6b12.jpg
+PROP-c26012ad|Modern living in prime location|Peaceful countryside house with land, ideal for nature lovers.|7500000.0|Kurunegala|6d993b5c|true|property_PROP-c26012ad.jpeg
+PROP-d177a47a|Charming home with spacious yard |Cozy apartment in the heart of city, close to shops and transport.|8000000.0|Puttalam|6d993b5c|true|property_PROP-d177a47a.jpeg
+PROP-f5327dd7|Luxury villa with scenic views |Luxury villa with pool, garden, and stunning maountain views|1.5E7|Mathale|6d993b5c|true|property_PROP-f5327dd7.jpeg
+PROP-040407d2|affordable studio in the city|Affordable studio perfect for officec or retail, high foot traffic area. |8500000.0|Matara|6d993b5c|true|property_PROP-040407d2.jpeg
